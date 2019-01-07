@@ -1,0 +1,222 @@
+Polaczenia poziomow map sa losowe przy kazdej nowej rundzie, ale sa zachowywane w ramach rundy. Pamietaj ze niekonieczne sa one dwukierunkowe!
+Mozesz lapac rzucone przedmioty poprzez wlaczenie opcji "rzucaj" i aktywnej pustej rece.
+Aby wlamac sie do sejfu w skarbcu uzyj stetoskopu albo ladunkow wybuchowych.
+Mozesz wspiac sie na stol przez przeciagniecie sie na niego. Wymaga to czasu oraz upuszcza trzymane przedmioty na stol. Klikniecie na stol, na ktory wspina sie ktos inny sprawi ze spadna.
+Mozesz przeciagnac innych graczy na siebie aby otworzyc menu rozbierania, pozwalajace na zdjecie ich ekwipunku lub zmusic ich do ubrania czegos. Pamietaj ze exosuit lub helm blokuje dostep do ubran pod nimi, oraz niektore przedmioty zabieraja wiecej czasu do ubrania lub zdjecia.
+Klikniecie na szklane drzwi zamiast wpadniecia na nie pozostawi je otwarte, aby je zamknac kliknij na nie ponownie.
+Mozesz uzyc gasnicy, rzucac przedmiotami albo strzalac z broni bedac w kosmosie aby zmienic kierunek lotu. Po prostu strzel w przeciwnym kierunku do ktorego chcesz leciec.
+Mozesz zmienic uklad sterowania naciskajac Tab. jednym jest WASD, drugim strzalki. Pamietaj ze zmieniaja sie tez hotkeye.
+Wszystkie automaty moga zostac zhakowane aby otrzymac nielegalne przedmioty, a w niektorych mozesz uzyc monety aby uzyskac dostep do ekskluzywnych przedmiotow.
+Kombinezony pozarowe i zimowe plaszcze zapewniaja lagodna ochrone przed zimnem, pozwalajac na spedzenie dluzszego okresu czasu w poblizu wyrw i kosmosu, w porownani do braku jakiejkolwiek odziezy.
+Szklane odlamki moga zostas zespawane aby zrobic szklo, metalowe prety moga zostac zespawane aby zrobic metal. ruda takze moze zostac zespawana, jednak wymaga to duzej ilosci paliwa.
+Jezeli musisz przeciagnac wieksza ilosc osob do bezpiecznego miejsca lub kosmosu, wez szafke lub skrzynie i wpakuj ich tam przed transportem.
+Mozesz kogos zlapac przez klikniecie na nich z intencja zlapania, aby wzmocnic chwyt kliknij ponowie. Agresywny chwyt ogluszy na chwile cel, co pozwoli polozyc go na stole, lub rzucic nim poprzez wlaczenie opcji rzutu.
+Przytrzymanie Alt oraz klikniecie na obszar pozwoli ci zobaczyc jego zawartosc w prawym gornym oknie, co jest duzo szybsze niz klikniecie prawym przyciskiem.
+Przycisk przeciwdzalania pozwoli ci sie wyzwolic z kajdanek, krzesla lub lozka takze z zamknietej szafki i wiele innych. Kiedykolwiek utkniesz, sprobuj przeciwdzialac!
+Mozesz przesuwac przedmioty przez przeciagniecie i klikniecie na przestrzen wolna reka.
+Mozesz zmienic kolor pewnych rzeczy poprzez wypranie ich w pralce razem z kredka.
+Mainty sa pelne ekwipunku ktory jest losowy co runde. Rozejrzyj sie i sprawdz czy cokolwiek jest warte uzycia.
+Niektore role nie moga byc domyslie antagonista, ale wybor antagow jest ustalany jako pierwszy. Na przyklad ustawiajac Bagiete na wysoki nie zmniejszasz szansy na antaga -- gra po prostu nada ci inna role.
+Istnieje wiele miejsc na stacji pozwalajace na ukrycie kotrabandy. Kilka na start: lniane skrzynie, cysterny w toaletach, worki na zwloki. Eksperymentuj aby znalezc wiecej!
+Na niektorych mapach mozesz uzyc maszyny w skarbcu aby wymienic kosmiczna kase na punktu cargo lub obrabowac cargo do suchej nitki.
+Jako Kapitan, jests najwazniejszym celem na stacji. Wszyscy poczawszy od rewolucjonistow, atomowych agentow do zdrajcow beda na ciebie polowac aby ukrasc twoj laserowy pistolet, albo cie zabic. 
+Jako Kapitan zawsze zabieraj ze soba dyskietke z kodami atomowymi oraz wskaznik do niej. Dobrym pomyslem jest oddanie jednej rzeczy innemu czlonkowi dowodzenia, ktoremu ufasz ze bedzie w stenie zapewnic bezpieczenstwo, na przyklad Szefowi Bagiet.
+Jako Kapitan masz aboluty dostep i kotrole nad stacja, jednak to nie oznacza ze bedac okropnym kapitanem nie poskutkuje w buncie zalogi czy banie.
+Jako Kapitan mozesz kupic nowy prom ratunkowy uzywajac konsoli komunikacyjnej. Niektore wymagaja kredytow, inne je daja. Pamietaj ze kupowanie niebezpiecznych promow moze wkurwic zaloge.
+Jako Szef Medykow twoj hypospray jest strzykawka, ktora natychmiast dozuje swoja zawartosc oraz moze pomiescic 30u zamiast 15u.
+Jako Szef Medykow koordynuj i komunikuj sie ze swoimi podwladnymi, doktorami chemikami oraz genetykami podczas zagrozenia atomowego, inwazji gluta lub immych kryzysow aby utrzemac zaloge przy zyciu i zdolnych do walki.
+Jako Doktor mozesz sprobowac pobrac krew z zwlok aby poznac przyczyne smierci. Jezeli mozesz pobrac krew, smierc byla spowodowana przez ekstremalne temperatury lub laser, jezeli nie ma krwi, potwierdza to obecnosc chenglingow.
+Jako Doktor, chociaz oba usuwaja toksyny z organzmu roznia sie pod wzgledem dzialania. Wegiel aktywny bedzie usuwal wszystkie reagenty w organizmie, gdzie antytoksyna usuwa tylko toksyny - jednak mozna ja przedawkowac.
+Jako Doktor mozesz chirurgicznie wszczepiac lub usuwac rzeczy z klatek piersiowych. Moze sie to wahac od wszczepiania bomby, lub wyciagniecia larwy obcego.
+Jako Doktor musisz celowac w odpowiednia konczyne i byc w intencji pomocy podczas proby chirurgi na kims. Uzywajac intencji rozbroj celowo zepsuje ten krok operacji.
+Jako Doktor, zwloki z opisem "... jego dusza odeszla" nie maja juz przyczepionej duszy i nie moga byc ozywione lub sklonowane.
+Jako Doktor, leczenie plazmamenow nie jes niemozliwe! Salbutamol ratuje ich przed uduszeniem a przysznic ratuje ich przed spaleniem zywcem. Mozesz nawet ich operowac przeprowadzajac operacje pod prysznicem.
+Jako Doktor, mozesz wskazac na ludzi swoim dlugopisem aby stworzyc medyczny hologram. Pozwoli im to stwierdzic ze nadchodzi pomoc.
+Jako Doktor, mozesz wyciagnac implant przez trzymanie w rence pustego pudelka po implancie podczas procedyry wydobycia implantu.
+Jako Doktor, skanowanie do klonowania takze wszczepia medyczny nadajnik, ktory wyswietla ich stan w ich dokumentacji. Uzyteczne do sprawdzenia stanu czlonkow zaloi ktorzy nie wlaczyli swoich sensorow.
+Jako Chemik, istneja dziesiatki chemikaliow, ktore lecza, i jeszcze wiecej ktore powoduja krzywde. Eksperymentuj!
+Jako Chemik, niektore chemikalia moga zostac zsyntezowane poprzez podgrzanie ich w grzejniku.
+Jako Chemik, bedzie sie od ciebie oczekiwac zaopatrzenia zalogi w niektore specyfiki. Na przyklad clonxadon i mannitol dla cryotub, unstable mutagen dla botaniki jak i tabletek i plastrow lecznyczych.
+Jako Chemik, mozesz zrobic butelki 100u z arkuszu plastiku. ChemMaster takze moze produkowac nieskonczone 30u szklane butelki.
+Jako Genety, mozesz skrocic proces klonowania poprzez wylaczenie zasilania w genetyce. Pamietaj jednak ze klon otrzyma wieksze uszkodzenia genetyczne jak i moze stracic wazne organy.
+Jako Genetyk, zostanie Hulkiem sprawia ze jestes zdolny zadawac ogromne fizyczne obrazenia, ogluszac ludzi oraz niszczyc sciany. Jednakze pamietaj ze nie mozesz uzywac broni palnej, jezeli trzymasz za duzo obrazen stracisz status Hulka oraz nie jestes uwazany za czlowieka pod jego postacia.
+Jako Wirusolog, twoje wirusy moga znacznie sie roznic pod wzgledem wlasciwosci, od zdolnosci leczniczych potrafiacych uleczyc krytyczne obrazenia, poprzez wywolujace choroby mogace zabic cala zaloge przez spontaniczny samozaplon. Eksperymentuj
+Jako Wirusolog, wystarczy ci niewielka dawka szczepionki aby wyleczyc chorego pacjenta. Pracuj razem z Chemikiem aby rozprowadzac lekarstwa lepiej.
+Jako Dyrektor Naukowy, mozesz wyciagac AI z ich rdzeni poprzez wgranie ich do inelliCard, i stamtad przeniesc je do komputera naprawczego aby je zresetowac lub naprawic.
+Jako Dyrektor Naukowy, mozesz zablokowac cyborgi zamiast je wysadzac. Wtedy mozesz zresetowac prawa lub bezpiecznie je rozebrac.
+Jako Dyrektor Naukowy, twoje narzeci monitoringu w konsoli moze byc wykorzystane do odzyskania elekronicznego hasla do drzwi, jezeli ktos uzyl pilota.
+Jako Naukowiec, mozesz uzyc toksyny mutujacej otrzymanej z zielonych slimow aby zmienic sie w zelkowego mutanta. Kazdy jego podgatunek ma unikalne zdolnosci - na przyklad telepatia, kopiowanie ciala czy wchlaniaie slimowego ekstraktu.
+Jako Naukowiec, mozesz maksymalizowac liczbe uzyc danego slima poprzez nakarmienie ich slimowym steroidem, tworzonego z fioletoego slima. Potem mozesz zastosowac wzmacniacz ekstraktu tworzony z jasnoniebieskiego slima.
+Jako Naukowiec, mozesz dezaktywowac anomalie poprzez przeskanowanie je analizerem, a potem odtworzenie sygnalu na otrzymanej czestotliwosci sygnalizatorem. Zdezaktywowana anomalia zostawi rdzen, ktory moze posluzyc do budowy Phazon Mecha.
+Jako Naukowiec, wynalezione nowe czesci moga drastycznie usprawnic wydajnosc i szybkosc maszyn na stacji. W niektorych moze nawet odblokowac nowe funkcje.
+Jako Naukowiec, mozesz generowac punktu badan przez rejestrowanie coraz wiekszych eksplozji przy pomocy tachyon-droppler array.
+Jako Naukowiec, wypicie flaszki wodki moze znaczaco pomoc w badaniach. Na zdrowie!
+Jako Robotyk, miej uszy szeroko otwarte na ogloszenia o anomaliach. Jezeli uda ci sie zdobyc rdzen bedziesz mogl zbudowac Phazon Mecha!
+Jako Robotyk, mozesz naprawiac cyborgi spawarka. Jezeli otrzymaly obrazenia od ciepla, mozesz wyjac baterie, odslonic okablowanie srubokretem i je wymienic przy pomocy nowych przewodow.
+Jako Robotyk, mozesz resetowac modul cyborga przecinajac i laczyc na nowo przewod resetujacy.
+Jako Robotyk, mozesz zmaczaco pomoc gornikom przez zbudowanie Strazakiego APLU wyposazonego w kleszcze hydrauliczne i przecinak plazmowy. Ten mech jest odporny na burze pylowe oraz nawet moze przechodzic przez lawe.
+Jako Robotyk, mozesz wszczepiac ludziom cybernetyczne konczyny. Takie konczyny moga byc latwo naprawione przy pomocy kabli oraz spawarki.
+Jako AI, mozesz kliknac na imiona ludzi aby na nich patrzec. Jednak dziala to jedynie kiedy w sa w zasiegu kamer.
+Jako AI, mozesz szybko otwierac i zamykac drzwi trzymajac shift i na nie kliknac, zablokowac je trzymajac ctrl, a nawet naelektryzowac trzymajac alt.
+Jako AI, mozesz robic zdjecia swoimi kamerami i wrzucac je do nasciennych wyswietlaczy.
+Jako Cyborg, dobrze sie zastanow nad wyborem modulu, jako ze tylko przeciecie  i zlaczenie na nowo przewodu resetujacego da ci ponowny wybor. Jezeli to mozliwe powstrzymaj sie z wyborem do wystapienia sytyacji wymagajacej jakieos modulu.
+Jako Cyborg, jestes odporny na wiekszosc form ogluszenia, oraz przewyzszasz ludzi w prawie wszystkich pracach. Jednach flashe moga cie latwo ogluszyc oraz nie mozesz wykonywac precyzyjnych prac jako ze brakuje ci rak.
+Jako Cyborg, jestes odporny na ogien i cieplo. Jezeli oszalales mozesz wypuscic plazmowy pozar i przechodzic przez niego niczym sie nie przejmujac.
+Jako Cyborg, jestes nezwykle wrazliwy na EMP jako ze EMP oglusza cie jak i zadaje obrazenia. Karabin jonowy albo zdrajca z zestawem EMP moze cie zabic w kilka sekund.
+Jako Cyborg Uslugowy, twoj sprej moze ogluszac ludzi. Jednak maski gazowe go blokuja.
+Jako Cyborg Inzynier, mozesz mocowac alarmy atomsferyczne/przeciwpozarowe/obudowy APC do scian przez polozenie ich na podlodze i uzycie na nich srubokretu.
+Jako Cyborg Medyczny, mozesz przeprowadzac operacje a nawet wszczepiac ludziom implanty.
+Jako Cyborg Sprzatacz, jestes zmora wszystkich demonow rzeznikow a nawet gum do zucia. Czszczenie plam krwi na pewno ich wkuzy.
+Jako Szef Inzynierow, mozesz zmieniac nazwy rejonow a nawet tworzyc nowe uzywajac planow stacji.
+Jako Szef Inzynierow, twoj kombinezon jest o niebo lepszy od reszty. Ma najlepsze cechy obu kombinezonow - inzynieryjnego i atmosferycznego, zwiekszjac tym odpornoscna promieniowanie i warunki atmosferyczne.
+Jako Szef Inzynierow, mozesz podsluchiwac a nawet falszowac komunikacje PDA pzy pomocy konsoli moniorujacej wiadomosci! Klucz jest w twoim gabinecie.
+Jako Szef Inzynierow, w twojej szafce znajduje sie jetpack, ktory mozesz przyczepic do swojego kombinezonu.
+Jako Szef Inzynierow, konsola zarzadzania siecia elektrzyczna w twoim biorze wyswietli ci informacje o wszystkich APC i pozwoli kontrolowac je zdalnie.
+Jako Inzynier, odlamek supermaterii jest bardzo niebezpiecznym kawalkiem wyposazenia; dotkniecie go sprawi ze wyparujesz.
+Jako Inzynier, mozesz elektryzowac kraty kladac nody pod nimi.
+Jako Inzynier, powracaj do swojego wydzialu co jakis czas aby sprawdzic stan silnika oraz bateri SMES. Zawsze jest dobrze sie upewnic ze przestrzegane sa zasady BHP.
+Jako Inzynier, stacja moze byc calkowicie zasilana przez panele fotowoltaiczne. Jest to niezbyt interesujace, jest jednak bardziej bezpieczne w porownaniu do innych generatowow.
+Jako Inzynier, mozesz schlodzic odlamek supermaterii gasnica. Tylko dla odwaznych!
+Jako Inzynier, mozesz naprawiac okna uzywajac spawarki na nich, majac intencje inna niz szkodzic.
+Jako Inzynier, mozesz blokowac APC, larmy przeciwpozarowe, emitery i kolektory promieniowania uzywajac swojego ID aby inni nie mogli ich wlaczyc/wylaczyc.
+Jako Inzynier, mozesz zmienic cewki tesli w analizatory korony uzwajac srubokretu na PCB. Sprawi to ze beda produkowac mniej pradu, ale beda wytwarzac punkty badawcze!
+Jako Inzynier, mozesz uzyc kolektory promieniowania do generowania punktow naukowych. Zaladuj do nich mieszanke 50/50 tlenu z trytem i uzyj multitoola aby przestawc kolektor w try badawczy.
+Jako Inzynier, nie lekcewaz skromnych generatorow P.A.C.M.A.N. Z ulepszonymi czesciami kilka takich generatorow moze w zupelnosci zastapic zniszczony silik czy roztrzaskane solary.
+Jako Inzynier, twoj departamentowy protolathe i drukarka plytek PCB moze wyprodukowac plytki iczesci potrzebne do budowy prawie wszystkiego. Wybuduj dodatkowe urzadzenia medyczne! Zbuduj maszyne rzeznicza dla ochrony! Ustaw rzad emiterow skierowanych w dol korytarza! Masz nieskonczone mozliwosci!
+Jako Inzynier, mozesz wlamac sie do do zabezpieczonego magazynu poprzez wylaczenie glownego bezpiecznika w APC maszynowni. jest to oczywiscie zly pomysl kiedy silnik chodzi.
+Jako Inzynier, twoj RCD moze byc zaladowany arkuszami mineralow zamiast kartridzy skompresowanej materii.
+Jako Technik Atmosferyczny, mozesz odkrecic rure bez wzgledu na panujace w niej cisnienie, jednakze jezeli cisnienie jest za wysokie, moze ja rozerwac i cie zranic!
+Jako Technik Atmosferyczny, sprobuj wynieniac pompy gazowe na wolumetryczne pompy gazowe, jako ze przenosza one gazy w objetosciach liczbowych zamiast wartosci procentowych ktore zostawiaja resztki gazow.
+Jako Technik Atmosferyczny, jestes lepiej przystosowany do zwalczania pozarow niz ktokolwiek inny. Msz dostep do lepszej odziez przeciwpozarowej, plecakowe zbiorniki przeciwpozarowe i calkowicie odporne na cieplo i ogien kombinezony.
+Jako Technik Atmosferyczny, twoj plecak przeciwpozarowy moze wystrzelic zywice. Ugasi ona pozar oraz zastapi jakiekolwiek gazy bezpieczna mieszanka powitrza.
+Jako Technik Atmosferyczny, twoj ATMOS projektor potrafi blokowac gazy podczas gdy przepuszcza inne obiekty. Przy jego uzyciu mozesz szybko zapobiec wyciekowi gazow, pozara czy wylomom w kadlubie stacji. ablo uzyci do zapieczeotowania pokoju klonowac plazmamenow
+Jako Technik Atmosferyczny, spalanie mieszanki 50/50 plazma/tlen w piecu nie tylko wytworzy prad ale takze wyprodukuje gazy takie jak ryt i pare wodna.
+Jako Technik Atmosferyczny, mozesz zmienic polozenie rur poprzez klikniecie na nie kluczem lub innym elementem o pozadanym polozeniu.
+Jako Szef Ochrony, powinienes koordynowac swoimi podwladnymi w taki sposob aby poradzili sobie z kazdym zagrozeniem dla stacji. Niekiedy trzeba wykorzystac zbrojownie do walki z Blobem, kiedy indziej byc bezlitosnym podczas rewolucji czy kultu.
+Jako Szef Ochrony, mozesz wydawac wyroki smierci czy silowe cyborgowanie, jednak moze to wymagac zezwolenia Kapitana.
+Jako Szef Ochrony, nie pozwol zeby wladza uderzyla ci do glowy. Mozesz miec wysoki dostep, wysmienity ekwipunek i mala armiedo swojej dyspozycji ale bycie okropna osoba bez powodu daje dobre podstawy do bana.
+Jako Straznik, twoim obowiazkiem jest bycie strozem wiezienia i opiekunem wiezniow kiedy niewiele sie dzieje, oraz wydawanie ekwipunku i broni ochronie w czasie kryzysu.
+Jako Straznik, pilnuj zbrojownijak oczka w glowie przez caly czas, jako ze jest to ulubiony cel nukeopsow oraz zdrajcow.
+Jako Straznik, jezeli przestepstwa wieznia sa wystarczajaco obrzydliwe, mozesz ich zamknac na dozywocie lub zeslac do gulagu. Pamietej aby zajrzec do nich czasami!
+Jako Straznik, mozesz implantowac przestepcow, ktorych uwazasz ze moga znowu popelnic przestepstwa, urzadzeniem ktore pozwoli ci ich zlokalizowac oraz wstrzyknac substancje obezwladniajace.
+Jako Straznik, mozesz uzyc kajdanki na pomaranczowych butach skazancow, wiazac je, co zmusza wiezniow do chodu i potencjalnie zapobiega ucieczce.
+Jako Ochroniarz, komunikuj sie z kolegami uzywajac do tego kanalu ochrony (:s) aby zapobiec zamieszaniu.
+Jako Ochroniarz, towje gogle i okulary moga pokazywac nie tylko przydzielona prace ale tez status kryminalny. Uzyj tego do zyskania pzewagi w czasie rewolucji czy kultu aby stwierdzic kto jest po twojej stronie.
+Jako Ochroniarz, mindshield implant moze jedynie ochronic kogos przed dolaczeniem do kultu, inaczej niz rewolucjonistow, nie moze ich nawrocic jezeli juz dolaczyli do kultu.
+Jako Ochroniarz, rewidujac kogos majac zalozone okulary lub gogle ochroniarskie mozesz ustawic ich poziom aresztowania, co spowoduje ze Beepski i inne boty beda go scigac.
+Jako Detektyw, ludzie zostawiaja odciski palcow wszedzie i na wszystkim. Z wyjatkiem bialych lateksowych rekawiczek, beda je ukrywac. jednak nie wszystko stracone, rekawiczki zostawiaja wlokna specyficzne do materialu z ktorego sa wykonane, co moze wskazac depertament z ktorego pochodza.
+Jako Detektyw, mozesz uzywac swoj skaner forsenyczny z dystansu.
+Jako Detektyw, twoj rewolwer moze byc zaladoway amunicja .357 zdobyta z zhakowanego autolathe. Jednak uzywanie je ma dobre szanse na wybuchniece rewolweru.
+Jako Prawnik, sprobuj negocjowac ze Straznikem jezeli wyrok jest za wysoki dla denego przestepstwa.
+Jako Prawnik, sprobuj przekonac Kapitana i Szefa Ochrony aby przeprowadzac procesy dla wiezniow w sali sadowej.
+Jako Szef Personelu, nie jestes wyzej w renkingu niz inni Szefowie, jednak w razie zaginiecia Kapitana spodziewa sie po tobie ze go tymczasowo zastapisz. Jezeli jednak cie to przerasta, zastanow sie nad przekazaniem tymczasowych obowiazkow kapitana innemu Szefowi.
+Jako Szef Personelu, jestes tak samo waznym celem dla zdrajcow jak kapitan z powodu potencjalnej mocy twojego ID oraz komputera w biurze.
+Jako Mim, twoje niewidzialne sciany moga blokowac zarowno ludzi jak i pociski. Mozesz uzyc ich w chwili zagrozenia aby spowolnic ludzi cie scigajacych.
+Jako Mim, mozesz uzyc :r i :l oby mowic przez towjego manekina.
+Jako Mim, przysiega milczenia jest zrodlem twojej mocy. Zlamanie jej okrada cie z twoich mocy i honoru.
+Jako Klaun, jezeli zgubisz swoja skorke od banana wciaz mozesz uzywac PDA aby wywracac ludzi. HONK!
+Jako Klaun, zjedzenie banana neieznacznie cie leczy. HONK!
+Jako Klaun, twoim swietym Gralem jest mineral bananium, mozesz go dac Robotykowi aby zbudowal ci fajnego i lubianego przez wszystkich mecha.
+Jako Klaun, mozesz uzyc swojej pieczatki na arkuszy tektury jako pierwszy krok do stworzenia honkbota. Zabawa dla calej zalogi!
+Jako Kaplan, towja null rod ma wiele funkcji: moze zamieniac wode w wode swiecona, ktora rozlana na podlodze zapobiega Wizardom teleportowania, moze niszczyc runy kultystow poprzez udezenie ich i ogolnie jest calkiem niezla bronia do walki!
+Jako Kaplan, twoja biblia jest takze pojemnikiem, ktory moze przechowac male przedmioty. W zaleznosci od twojego Boga moze zawierac niespodzianke!
+Jako Kaplan, masz wieksze szanse na odpowiedz na swoje modlitwy of Boga niz zwykli ludzie. Aby jesze bardziej zwiekszyc szanse na odpowiedz, buduj oltarze z kolorowymi runami, zapalaj swiece i tworz sztuke z kabli.
+Jako Botanik, mozesz zhakowac MegaSeed Vendor aby uzyskac dostep do bardziej egzotycznych nasion. Nasiona te takze moga byc zamowione w Cargo.
+Jako Botanik, mozesz zmutowac rosliny rosnace w tackach hydroponicznych poprzez uzycie niestabilnego mutagenu, lub alternatywnie poprzez napromieniwaniem ich radioaktywnymi materialami, ktore uzyskasz od Chemika aby uzyskac specjalme odmiany.
+Jako Botanik, powinenes szukac sposobu na zwiekszenie potencjalu uprawianych roslin. Zwiekszy to ich wielkosc, ilosc odczynnikow, punktow otrzymanych z mielenia ich w biogenetratorze oraz pokaze ludziom jaki dobry z ciebie botanik!
+Jako Botanik, mozesz laczyc cechy chemiczne roslin tak samo jak Chemik. Chlor (blumpkin) + rad i fosfor (glowshroom) rowna sie niestabilny mutagen!
+Jako Kucharz, mozesz ladowac swoje potrawy do automatu z przekaskami.
+Jako Kucharz, mozesz nazwac twoje dania przy uzyciu dlugopisu.
+Jako Kucharz, jakiekolwiek danie ktore wykonasz bedzie zdrowsze od smieciowego jedzenia z automatow. 
+Jako Kucharz, bycie w kuchni przypomina ci podstawy Close Quaters Cooking. Jest to szczegolnie przydatene w usuwaniu asystentow z twojego miesjca pracy.
+Jako Barman, startujesz tylko z podstawowymi alkoholami i sokami, Jezeli chcesz robic bardziej zaawansowane drinki, zacznij wspolpracowac z chemikiem, botanikiem a nawet z gornikiem!
+Jako Barman, mozesz uzyc pile tarczowa na swojej strzelbie aby zrobic ja latwiejsza w przechowywaniu.
+Jako Sprzatacz, jezeli ktos ukradnie twoj wozek, mozesz zamiast niego uzywac kosmicznego czyszczacza w spreju, granatow, czy wody, dokonac krwawej zemsty albo zamowc nowy z Cargo.
+Jako Sprzatacz, pulapki na myszy moga byc uzyte do tworzenia bomb lub pojemnikow-plapek.
+Jako Bibliotekarz, nie jestes calkowicie bezbronny. Twoj bicz latwo rozbraja ludzi, wskaznik laserowy moze oslepic zarowno luczi jak i cyborgi oraz mozesz chwac rzeczy w wycietych ksiazkach.
+Jako Bibliotekarz, pamietaj aby polki byly pelne a biblioteka czysta.
+Jako Magazynier, mozesz zhakowac MULEboty aby byly szybsze, przejezdzaly ludzi na ich drodze, a nawet dac ci mozliwosc jazdy na nich!
+Jako Magazynier, mozesz zamawiac kontrabande z konsoli promu dostawczego poprzez rozebranie konsoli i uzycie multitoola na plytce PCB i ponownym zlozeniu konsoli.
+Jako Magazynier, mozesz zarobic wiecej punktow cargo przez wysylanie spowrotem skrzyn z kanalow serwisowych, zbiornikow na plyny, arkuszy plazmy, rzadkich nasion i wiele wiecej.
+Jako Kwatermistrz, pamietaj aby sprawdzic dokumentacje na skrzyniach ktore otrzymujesz, aby sprawdzic czy wszystko jest w porzadku. Jezeli wystapil blad uzyj pieczatki DENIED na dokumencie i odeslij go razem z nienaruszona skrzynia aby otrzymac zwort pieniedzy.
+Jako Kwatermistrz, mozesz wybudowac ekspresowa konsola zamowien, ktora natychmiastowo dostarcza zamowienia przez zrzut kapsuly. Uderzenie wywola mala eksplozje.
+Jako Gornik, polnocna strona Lavalandu ma o wile wiecej rzadkich mineralow niz poludniowa.
+Jako Gornik, kazdy potwor w Lavalandzie ma swoja sciezke, mozesz to wykorzystac do zminimalizwania spotkan z nimi.
+Jako Gornik, mozesz zbierac plytki z goliathow i uzyc je do ulepszenia swojego kombinezonu badacza, gornika, a takze Przeciwpozarowego APLU, sprawi to ze beda mniej podatne na obrzenia fizyczne.
+Jako Gornik, zawsze miej przy sobie nadajnik GPS, w razie czego inny gornik czy cyborg bedzie wiedzial gdze cie szukac.
+Jako Gornik, mozesz wytwarzac roznorodne urzadzenia z lokalnej fauny. Kosciane topory, lawowe lodki i smocza zbroja to tylko kilka przykladow.
+Jako Zdrajca, twoj sekwencer kryptograficzny (emag) nie tylko porafi otwierac drzwi, ale takze szafki, APC i wiecej. Potrafi hakowac Cyborgi, a nawet spowodowac ze boty dostana szalu. Uzywaj go na wlasciwych maszynach a bedziesz nawet mogl zamowic wiecej sprzetu albo skontaktowac sie z Syndykatem. Eksperymentuj!
+Jako Zdrajca, mozesz przekonac AI aby ci sluzyla zrobi z niego zniezwykle silnego sojusznika. Jednakze uwazaj na dobor slow w prawie jake mu nadajesz, AI moze wykorzystac zle napisane prawa przeciwko tobie!
+Jako Zdrajca, Kapitan oraz Szef Ochrony sa najtrudniejszymi celami do zabicia na stacji. Planuj dobrze jezeli masz jednego z nich na celu.
+Jako Zdrajca, mozesz wytwarzac i odnawiac naboje do rewolweru w zhakowanym autolathe, robiac rewolwer niezwykle potezna bronia.
+Jako Zdrajca, moze sie czasami zdarzyc ze dostaniesz zlecenie na innego zdrajce, ablo sam byc celem.
+Jako Zdrajca, klucz szyfrowania syndykatu jest bardzo pomocny w koordynowaniu planow z innymi zdrajcami -- lub oczywiscie zdradzenia ich.
+Jako Zdrajca, plazma moze byc wstrzyknieta w wiele rzeczy aby je uszkodzic. Baterie, zarowki, cygara, e-papierosy, wszystkie eksploduja podczas uzycia.
+Jako Orerator Atomowy, komunikacja jest kluczem! Uzyj :t lub :h aby rozmawiac z innymi operatorami u koordynowac plan ataku.
+Jako Orerator Atomowy, powinienes sprobowac zakupic cyborga syndykatu, jako ze moga zapewnic ciezkie wsparcie ogniowe, pelen dostep oraz sa odporne na konwencjonalne ogluszania i moga latwo pozbyc sie AI.
+Jako Orerator Atomowy, trzymajcie sie razem. Kiedy twoj ekwipunej jest wysmienity, twoi wspolpracownicy sa o wiele lepsi w ratowaniu zycia: moga odciagnac cie od niebezpieczenstwa kedy jestes ogluszony oraz zapewnic ogien oslonowy.
+Jako Orerator Atomowy, mozesz skonczyc w sytuacji kiedy AI zablokowal cie w pomieszczeniu. Posiadanie kilku dodatkowych ladunkow C4 w kieszeniach moze uratowac ci zycie.
+Jako Malpa, mozesz pelzac w wentylacji przez trzymajac alt i klikajac na wlot/wylot wentylacji. Jednak robiac to upuscisz wszystko co trzymasz i masz ubrane.
+Jako Malpa, wciaz mozesz zalozyc kilka ludzkich ubran, takich jak plecaki, maski gazowe oraz czapki i wciaz miec wolne rece.
+Jako Wadliwe AI, mozesz wylaczac APC jezeli sytuacja tego wymaga. To dzialania wylacza urzadzenie zaglady jezeli bylo aktywne.
+Jako Wadliwe AI, owinienes kazac cyborgom rozebrac konsole robotyka albo ja wysadzic w celu ich ochrony.
+Jako Wadliwe AI, zalanie stacji plazmowym pozaren w celu zabicia wiekszosci zalogi co pozwoli ci latwiej wybic pozostala resztke zalogi.
+Jako Ksenomorf, twoja sila fizyczna jest niezrownana, ale umiejetnosci dystansowe sa bardzo slabe. Uzywaj zaketow aby zmusic do konfrontacji w walce wrecz.
+Jako Ksenomorf, otrzymujesz podwojne obrazenia od wszystkich atakow cieplnych, takich jak lasery, spawarki oraz oginie. Ponadto ogien moze zniszczyc twoja zywice i jaja. Wystaw wszyskie pomieszczenia na otwarta przestrzen kosmiczna aby zdlawic ogien zanim zdazy wowylac powazne szkody.
+Jako Ksenomorf, zywiczna podloga nie tylko regeneruje twoj zapas plazmy ale takze paywnie cie leczy. Walcz na zywicznyc podlogach aby zyskac przewage!
+Jako Ksenomorf, twarzolap to twoja najpotezniejsza bron z powodu jej mozliwosci do natychmiastowej wygrania walki. Pamietaj jednak ze niektore halmy takie jak biohood i helmy kosmiczne blokuja jego ataki.
+Jako Ksenomorf, nie mozesz podniesc czy uzyc jakichkolwiek przedmiotow czy maszyn. Powinienes sie skupic na uszkadzaniu APC, komputerow, kamer oraz chowaniu, wyrzucaniu w kosmos czy topieniu kazdej broni jaka znajdziesz.
+Kiedy walczysz z blobem, mozesz uderzyc go analizerem aby sprawdzic jego styp i sklad chemiczny. Badanie go przy pomocy skanera badawczego czy medycznego HUD'a takze wyswietli te informacje.
+Jako Blob, mozesz umiejscowic swoj rdzen w kazdym pustym, nieobserwowanym miejscu, masz na to 3 minuty, jezeli bedzisz zwlekal zby dlugo zostaniesz automatycznie umieszczony w losowej lokalizacji. Uzyj czasu oczekiwania do koordynacji z innymi Blobami.
+Jako Blob, trzymaj swoj rdzen w pewnej odleglosci od kosmosu. jako ze rozbudowa w kosmosie jest droga, latwo cie tam zaatakowac oraz nie wlicza sie w twoj warunek wygrania. Platformy z emiterami wybudowane w kosmosie sa szczegolnie niebezpieczne.
+Jako Blob, mozesz losowo zmienic swoj typ chemiczny jezeli zaloga sie zaadoptowala do twojego dotychczasowego.
+Jako Blob, prowadz wojne o wyczerpanie: Przejmij szpital i walcz w woskich przejsciach aby zapobiec nieprzerwanym ataka oraz skoordynowanych seri obrazen.
+Jako Blob, mozesz atakowac wszystko naprzeciwko bloba, ale mozesz rozrastac sie tylko w kardynalnych kierunkach, a ataki po przekatnej sa nieznacznie slabsze.
+Jako Blob, nie zaniedbuj tworzenia fabryk. Tworza one zarodniki ktore przenosza twoj reagent oraz moga gonic zaloge nadalsze odleglosci niz ty. Zarodnki moga byc takze zwolane aby zaatakowac zaloge i wywalac panike, a nawet przejac martwe ciala i stworzyc blobowe zombie.
+Jako Blob, mozesz wyprodukowac Blobernauta w fabryce za 40 surowcow. Blobrnauci sa kontrolowani przez gracza, stopniowo regeneruja siew poblizu noda oraz stosuja twoje chemikalia kiedy atakuja, jednakze umieraja kiedy znajduja sie za daleko od bloba lub kiedy ich fabryka zostala zniszczona. Sama fabryka po wyprodukowaniu Blobernauta przestaje wytwarzac zarodniki i staje sie slabsza.
+Jako Blob, mozesz sie rozrastac poprzez klikniecie, tworzyc mocniejszy blob trzymajac ctrl i klikajac, zwolac zarodniki klikajac srodkowym przyciskiem mysz oraz usuwac bloby przytrzymujac alt i klikajac. 
+Jako Blob, usuwanie mocnych blobow, nodow surowcowych, fabryk i nodow da ci 4, 15 25 i 25 surowcow spowrotem.
+Jako Blob, rozmawianie wysle wiadomosc do wszystkich Blobow i Blobernautow, pozwalajac ci na koordynacje.
+Jako Blobernaut, mozesz rozmawiac z innymi Blobami i Blobernautami przez :b.
+Jako Blobernaut, twoj HUD pokazuje ci twoje HP oraz HP Bloba ktory cie stworzyl.
+Jako Rewolucjonista, nie mozesz skowertowac Szefow stacji albo kogos z mindshield implant, jak na przyklad Ochroniarzy lub tych kogo zaimplantowali. Implanty jednak moga byc chirurgicznie usuniete oraz nie przenosza sie przy klonowaniu. Przejmij konrole nad szpitalem aby miec kontrole nad konwersacja ludzi.
+Jako Rewolucjonista, Cargo moze byc twoim najlepszym przyjacielem lub najgorszym koszmarem. W najlepszej sytuacji bedziesz mog zamawiac nieskonczona ilosc broni, w najgorszej ochrona moze zamowic nieskonczone zapas minshield implant aby skierowac twich kolegow przeciwko tobie.
+Jako Rewolucjonista, wasza glowna sila zalezy od tego jak szybko sie rozrastacie. Konwertuj ludzi jak najszybciej i obal Szefow stacji zanim ochrona zdazy sie uzbroic.
+Jako Changling, uklucie by wyssac DNA wlicza sie do twojeco celu, absorbci genomu, jednak nie umozliwia ci dodaniu punktow do twoich umiejetnosci.
+Jako Changling, mozesz zaaborbowac kogos duszac go i uzywajac slowa Abosrb;  do ci to mozliwosc ponownego wyboru umiejetnosci, DNA zaabsorbowanego czlowiek, jego pamiec i pare przykladow slow kore powiedzial.
+Jako Kultysta, nie wywoluj sbytniego zamieszania przed wypelnieniem swojego zadania. Jezeli prom ratunkowy zostanie wezwany zbyt wczesnie, mozecie miec za malo czasu aby wygrac.
+Jako Kultysta, towja druzyna startuje bardzo slaba, ale jesli to konieczne, moze szybko prekonwertowacwszystko co maja na moc. Pamietaj aby miec liczebnosc i ekwipunek przed swoim objawieniem, albo kult sie szybko rozpadnie.
+Jako Kultysta, Runa Blood Boil zada ogromne obrazenia fizyczne dla nie-kultustow, obnizy wytrzymalosc Ratvarianskich szumowin, oraz troche obrazen dla znajomych kultustow Nar'Sie, a przy uzyciu wywola pozar.
+Jako Kultysta, mozesz stworzyc armie podwladnych uzywajac kombinacji runy Manifest, ktora tworzy homunclusa i runy Blood Drain, ktora wysysa zycie ze wszystkich w poblizu.
+Jako Kultysta, sprawdz alert w prawym gornym rogu ekranu dla detali o statusie kultu, jak i jego zadaniach.
+Mozesz przekonwertowac Kultyste poprzez karmienie go woda swiecona. Inaczej niz rewolucjonisci implantowanie mindshielda nic nie da.
+Kaplan moze poswiecic znaczne ilosci wody poprzez uderzenie zbiornika biblia. Woda swiecona ma wiele zastosowan przeciwko kultom i jest kluczowa do wygrania z nim.
+Jako Wizard, mozesz zmieniac ludzi w kamien, nastepnie animowac powstala statue laska ozywienia aby stworzyc poteznego miniona, na co najmniej 5 minut.
+Jako Wizard, zakleci kuli ognia sprawia sie slabo na krotkich dystansach oraz moze cie latwo zlapac w wybuch. najlepiej go uzywac na wieksze odleglosci.
+Jako Wizard, przyzywanie broni obroci wieksza czesc zalogi przeciwko sobie, ale takze da znacznej czesci wszystko od dmuchawki do BFG9000. Uzywaj na wlasne ryzyko!
+Jako Wizard, rozdzka chaosu moze wystrzelic jakikolwiek typ zaklecia. Moze sieto wachac od zaklecia natychmiastowej smierci do leczenia lub ozywienia kogos.
+Jako Wizard, wiekszosc zaklec nie mozna uzywac kiedy nie masz ubranej swojej szaty, czapki i sandalow.
+Jako Porywacz, mozesz wybrac gdzie zostana przetransportowane twoje ofiary w konsoli statku.
+Jako Agent Porywacza, tryb bojowy kamzelki maznacznie wieksza odpornosc na wiekszosc broni, a twoj helm zapobiega AI sledzenia ciebie.
+Jako Porywacz, twoja palka moze zmieniac sie pomiedzy czterema trybami: ogluszenie, uspienie, szturchniecie, probnik.
+Jako Zjawa, Kaplan to twoj najwiekszy wrog, jako ze moga zadac ogromne obrazenia null rodem oraz pokryc stacje woda swiecona po ktrej nie mozesz stapac.
+Jako Zjawa, twoja esencja to takze twoje zycie, wiec ukazywanie sie ludziom aby pobrac esencje od zywych ludzi jest znacznie bezpieczniejsze jezeli zaopatrzyles sie w nia od slabo chronionych zwlok.
+Jako Zjawa, twoja umiejetnosc Defile usuwa wode swiecona w niewielkim promieniu, pozwalajac odzyskacmozliwosc poruszania sie po stacji jezeli Kaplan pokryl znaczna czesc stacji woda swiecona.
+Jako Zjawa, twoja umiejetnosc Overload Lights tylko zaszokuje ludzi jezeli swiatla zaraz siezapala spowrotem.
+Jako Zjawa, woja umiejetnosc Malfunction generalnie uszkadza wiekszosc maszynerii i mechanizmow a nawet moze niektore zemaggowac. Eksperymentuj!
+Jako Zjawa, choroba wyzadzona ludziom przez Blight moze byc latwo uleczona przez polozenie sie lub wode swiecona, przez co najlepiej sie nadaje do uzycia na ludziach ktorzy nie moga sie polozyc, na przyklad zajetych walka.
+Jako Replikator, mozesz rozebrac wiecej rzeczy niz myslisz. Sprobuj rozebrac wlaczniki swiatla, przyciski, alarmy i wiecej. Eksperymentuj!
+Jako Replikator, mozesz teleportowac inne replikatory jezeli myslisz ze sa zagrozone.
+Jako Morph, mozesz rozmawiac bedac w prebraniu, ale twoje slowa maja szanse byc belkotliwe co moze cie zdradzic!
+Jako Dron, mozesz pingnac inne drony aby wskazac czesci stacji wymagajace naprawy.
+Jako Duch, mozesz zobaczyc zawartosc pojemnika klikajac na niego.
+Jako Duch, mozesz podwojnie kliknac na prawie wszystko aby automatycznie za nim podazac.
+Jak Diabel, zdobywasz moc za kazde trzy dusze ktore kontrolujesz, jednakze w tym samym czasie stajesz sie berdziej oczywisty.
+Jak Diabel, jak dlugo masz w moc przynajmniej jedna dusze zostaniesz automatycznie odrodzony, dopoki nie zostanie przeprowadzony egzorcyzm.
+Kiedykolwiek jezyk czlowieka wypowie imie diabla, moze sie on ukazac.
+Jako Ochroniarz, pamietaj ze korelacja nie rowna sie przyczynwosci. Ktos mogl byc w niewlasciwym miejscu w niewlasciwym czasie.
+Mozesz wymieniac plytki podlogowe majac w jednej rece lom a w drugiej plytki.
+Kiedy hakujesz drzwi, przeciecie i zlaczenie przewodu "test light wire" przywroci zasilanie do drzwi.
+Kiedy tworzysz wiekszosc rzeczy, mozesz manualnie je polaczyc lub uzyc menu.
+Jednostki przechowywania kombinezonow nie tylko usuna krew i brud z ubran ale takze promieniowanie.
+Urzadzenia zdalne beda dzialac, gdy beda uzywane przez kamery. Na przyklad Bluespace RPED i piloty do drzwi.
