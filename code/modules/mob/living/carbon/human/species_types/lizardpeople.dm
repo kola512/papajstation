@@ -32,9 +32,6 @@
 
 	var/randname = lizard_name(gender)
 
-	if(lastname)
-		randname += " [lastname]"
-
 	return randname
 
 //I wag in death

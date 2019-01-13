@@ -92,5 +92,4 @@
 	if(mining_type == "mining")
 		var/obj/item/stack/rods/cyborg/R = new /obj/item/stack/rods/cyborg(src)
 		basic_modules += R
-		add_module(R, FALSE, TRUE)
-*/
+		add_module(R, FALSE, TRUE)*/

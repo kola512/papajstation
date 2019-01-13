@@ -12,8 +12,6 @@
 /datum/job/mining/config_check()
 	return 0
 
-/datum/job/mime/config_check()
-	return 0
 
 /datum/job/librarian/config_check()
 	return 0
@@ -21,8 +19,6 @@
 /datum/job/lawyer/config_check()
 	return 0
 
-/datum/job/chaplain/config_check()
-	return 0
 
 /datum/job/chief_engineer/config_check()
 	return 0
